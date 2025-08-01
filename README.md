@@ -58,7 +58,9 @@ All code is written in a single HTML file with embedded CSS and JavaScript:
 
 📸 **Screenshot**
 
-*Add your screenshot here.*
+<img width="931" height="502" alt="image" src="https://github.com/user-attachments/assets/510cd868-1d7d-404f-89e6-377708aae3ae" />
+
+
 
 ---
 
