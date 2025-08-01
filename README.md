@@ -16,9 +16,8 @@ A visually appealing real-time digital clock built with **HTML, CSS, and JavaScr
 
 🖥️ **Demo Preview**
 
-*You can take a screenshot of the live output and upload it to GitHub or any image hosting site. Replace the link below with your hosted image URL.*
 
-![Digital Clock Screenshot](your-image-link-here)
+![Digital Clock Screenshot](https://saumyadwivedi071.github.io/Digital_Clock_03/)
 
 ---
 
@@ -66,5 +65,5 @@ All code is written in a single HTML file with embedded CSS and JavaScript:
 
 📌 **Author**
 
-\[Your Name]
+SAUMYA DWIVEDI
 Passionate about building sleek UIs and mastering JavaScript fundamentals.
